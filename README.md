@@ -1,5 +1,5 @@
 # RaiseMaxTac
-A Cyberpunk 2077 mod to raise (to 5) or remove your wanted level with a button click,
+A Cyberpunk 2077 mod to raise your wanted level (to 5) or remove it with, all using a hotkey.
 
 ### Requirements
 - https://www.nexusmods.com/cyberpunk2077/mods/107
